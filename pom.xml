@@ -8,7 +8,7 @@
 
     <artifactId>ejb</artifactId>
     <packaging>jar</packaging>
-    <version>0.6</version>
+    <version>0.7</version>
 
     <name>GWT/J2CL compatible Jakarta enterprise-beans annotations</name>
     <description>GWT/J2CL compatible Jakarta enterprise-beans annotations</description>
